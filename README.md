@@ -1,1 +1,3 @@
-# CS2400HW5
+# CS2400 HW5
+This homework is a guessing game that is based on a binary node tree. It is coded in Java.
+The way how the game works is that the program is supposed to guess what animal you're looking for. It will asks a question based on the type it is, and it will asks a question based on what exact animal it is. If the program can guess what it is, the program wins, but if it can't, the user must put a question based on what the user is looking for, and put a yes and no animal answer based on the question the user inputted. Either way, it will follow up on what type of tree traversal (either Level Order or Preorder) the use wants. It will also asks the user if they want to play again.
